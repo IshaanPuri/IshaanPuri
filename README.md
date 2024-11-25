@@ -77,7 +77,6 @@ Multiplayer Tetris implementation
 - Real-time multiplayer gaming
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![X11](https://img.shields.io/badge/X11-%23FF0000.svg?style=for-the-badge&logo=x11&logoColor=white)
 
 ## 📫 Connect
 - [LinkedIn](https://linkedin.com/in/IshaanPuri)
