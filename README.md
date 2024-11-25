@@ -4,7 +4,7 @@
 Software Engineer with a focus on building scalable systems and enterprise solutions. Currently at IBM, working on QRadar security systems. I combine my experience in software testing, automation, and cloud technologies to create efficient solutions.
 
 ## 🔨 Current Work
-- Software Engineer Intern at IBM (QRadar Security)
+- Software Engineer Intern at IBM (QRadar Security/Guardium Insight)
 - Developing automated testing solutions
 - Building scalable enterprise applications
 
